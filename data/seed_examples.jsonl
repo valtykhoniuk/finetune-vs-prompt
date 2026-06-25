@@ -1,0 +1,15 @@
+{"text": "I was charged $20 twice for the Beginner plan on the same day", "label": "billing"}
+{"text": "My card was declined but FoxSchool still shows active subscription", "label": "billing"}
+{"text": "Why does my invoice say $30 when I have the Intermediate plan?", "label": "billing"}
+{"text": "The video lesson freezes at 50% and never loads", "label": "bug"}
+{"text": "PDF worksheet download returns a blank page", "label": "bug"}
+{"text": "App crashes when I open Module 2 on my phone", "label": "bug"}
+{"text": "How do I reset my password?", "label": "how-to"}
+{"text": "Where can I find my lesson progress?", "label": "how-to"}
+{"text": "How do I switch from Beginner to Intermediate plan?", "label": "how-to"}
+{"text": "Can I get a refund? I subscribed 3 days ago", "label": "refund"}
+{"text": "I want my money back within the first week", "label": "refund"}
+{"text": "Am I eligible for a full refund on my first payment?", "label": "refund"}
+{"text": "Hello, is anyone there?", "label": "other"}
+{"text": "What do you think about learning math?", "label": "other"}
+{"text": "Thanks, that helped!", "label": "other"}
