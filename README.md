@@ -32,3 +32,7 @@ Synthetic tickets (GPT-generated) · split seed `42` · train/test held out for 
 | billing | 36%       | 45%      |
 
 **Note:** `billing` vs `refund` / `how-to` is the weak zone for prompt-only approaches (e.g. pricing vs refund eligibility vs “how do I change plan”).
+
+## Guides
+
+- **Day 3–4 (LoRA, Colab, HF PEFT):** [`training/DAY3-4.md`](training/DAY3-4.md)
