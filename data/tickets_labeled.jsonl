@@ -146,6 +146,8 @@
 {"text": "I'm unsure about how to use the voice recognition feature effectively; can you provide instructions?", "label": "how-to"}
 {"text": "Is there a way to track my progress in the courses? I can't seem to find that option.", "label": "how-to"}
 {"text": "How do I submit feedback about the lessons for future improvements?", "label": "how-to"}
+{"text": "How do I download completed worksheets from my profile?", "label": "how-to"}
+{"text": "Where do I see which module I'm on in the course?", "label": "how-to"}
 {"text": "I'm really not satisfied with my recent purchase and would like to request a refund for the last payment.", "label": "refund"}
 {"text": "Can you please help me with the process for getting a refund? I no longer need my subscription.", "label": "refund"}
 {"text": "I accidentally subscribed to the wrong plan and would like to know how to get a refund.", "label": "refund"}
@@ -246,3 +248,4 @@
 {"text": "Is there a way to provide feedback on the lessons?", "label": "other"}
 {"text": "Can you tell me more about your company's mission?", "label": "other"}
 {"text": "I just wanted to drop a note to say how much I appreciate your platform!", "label": "other"}
+
